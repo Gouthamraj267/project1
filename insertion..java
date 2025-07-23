@@ -12,6 +12,7 @@ class insertion {
         }
         sort(a);
     }
+// Here the actual code.
     static void sort(int[] a){
         for(int i=1;i<a.length;i++){
             int temp=a[i];
